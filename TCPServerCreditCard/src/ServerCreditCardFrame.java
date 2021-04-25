@@ -9,7 +9,14 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 
-
+/**
+ * This class represents the front end of the server side application.
+ * It display the status of the server and status for each request 
+ * made to the server.
+ * 
+ * @author Nur Afiqah Raman
+ *
+ */
 
 public class ServerCreditCardFrame extends JFrame {
 
