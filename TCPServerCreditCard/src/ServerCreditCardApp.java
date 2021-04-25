@@ -9,7 +9,7 @@ import java.util.Scanner;
  * The server generates message about the validation of credit card number.
  * Each connected client will received status message from the server.
  * 
- * @author nur afiqah raman
+ * @author Nur Afiqah Raman
  *
  */
 public class ServerCreditCardApp {
