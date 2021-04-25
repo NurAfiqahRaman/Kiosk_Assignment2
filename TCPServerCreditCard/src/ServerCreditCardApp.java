@@ -4,6 +4,14 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 
+/**
+ * This class launch the server side application using TCP.
+ * The server generates message about the validation of credit card number.
+ * Each connected client will received status message from the server.
+ * 
+ * @author nur afiqah raman
+ *
+ */
 public class ServerCreditCardApp {
 public static void main(String[] args) throws IOException {
 		
