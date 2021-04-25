@@ -2,7 +2,7 @@ import java.util.Scanner;
 	/**
 	 * This method validate credit card.
 	 * 
-	 * @return status message
+	 * @return status card
 	 * @author Nur Afiqah Raman
 	 */
 public class CreditCardAuthorization {
